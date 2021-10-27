@@ -39,6 +39,9 @@ int main(int argc, char** argv) {
 			printf("%llu ",dp[i][j]);
 		}
 		printf("\n");
+		
+		
+		
 	}*/
 	return 0;
 	//test
