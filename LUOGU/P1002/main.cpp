@@ -38,9 +38,11 @@ int main(int argc, char** argv) {
 		for(int j=0;j<=m;j++){
 			printf("%llu ",dp[i][j]);
 		}
-		printf("\n");
+		printf("\n");*/
 		
 		
-	}*/
+=======
+
 	return 0;
+	//test
 }
